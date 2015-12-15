@@ -1,0 +1,17 @@
+{
+  "name": "tapas-init",
+  "version": "0.1.4",
+  "description": "Tapas boilerplate generator",
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:TapasFE/tapas-init.git"
+  },
+  "license": "MIT",
+  "bin": {
+    "tapas-init": "./bin/tapas-init"
+  },
+  "dependencies": {
+    "through2": "~2.0.0",
+    "vinyl-fs": "~2.2.1"
+  }
+}
